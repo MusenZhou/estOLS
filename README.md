@@ -24,3 +24,6 @@ The filename after '-o' can be renamed as user wish. If the option '-o' is not s
 Example files of x matrix and y vector are also offered in the example folder. To run it, simple put the following line<br>
 python3 cpu.py -x xmat.dat -y yvector.dat -o beta_result.dat<br>
 in the command line. One can compare the output file 'beta_result.dat' with the ground true result file 'correct_bta.dat' to see the numerical accuracy of this implementation.
+
+# Computational Performance
+The computational performance of the implementations and future imporvement are also discussed in the Report.pdf file.
